@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">aplikasimobile</string>
+    <string name="hello_world">Aplikasi-Mobile.com</string>
+    <string name="action_settings">Settings</string>
+</resources>
